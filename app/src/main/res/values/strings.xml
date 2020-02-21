@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Desafio1</string>
+    <string name="ingresar">INGRESAR</string>
+    <color name="black"></color>
+</resources>
